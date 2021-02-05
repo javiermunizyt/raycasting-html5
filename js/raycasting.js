@@ -5,6 +5,8 @@ Suscríbete para más vídeos y tutoriales:
 https://www.youtube.com/channel/UCS9KSwTM3FO2Ovv83W98GTg
 Enlace los tutoriales paso a paso:
 https://www.youtube.com/watch?v=8XnQq28TRZY&list=PLmD1VB8QabXxMe8khFFnePiJnmdJn8SuR
+
+Basado en el motor creado por Gustavo Pezzi: https://github.com/gustavopezzi/raycasting/blob/master/raycasting-js/raycast.js
 */
 
 var canvas;
